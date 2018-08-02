@@ -1,0 +1,4 @@
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+220.181.90.52 sohu.com
+220.181.90.52 www.sohu.com
